@@ -1,6 +1,0 @@
-<resources>
-    <style name="Theme.ProfessorNotas" parent="Theme.MaterialComponents.DayNight.NoActionBar">
-        <item name="colorPrimary">@color/md_theme_primary</item>
-        <item name="android:statusBarColor">@color/md_theme_primary_variant</item>
-    </style>
-</resources>
